@@ -15,11 +15,10 @@ Here you'll find a collection of projects related to data analysis, data science
 ## Skills
 
 - SQL
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- Python (libraries - Numpy, Pandas, Matplotlib, Seaborn)
+- Data Analysis
+- Machine Learning
+- Statistics
 
 ## Certifications
 
