@@ -15,7 +15,9 @@ Here you'll find a collection of projects related to data analysis, data science
 ## Skills
 
 - SQL
+- MongoDB
 - Python (libraries - Numpy, Pandas, Matplotlib, Seaborn)
+- R- Programming Language
 - Data Analysis
 - Machine Learning
 - Statistics
